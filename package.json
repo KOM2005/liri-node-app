@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "start": "liri.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOM2005/liri-node-app.git"
+  },
+  "author": "KOM_2005",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOM2005/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/KOM2005/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.82.0",
+    "sauth-twitter": "0.0.1",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  }
+}
