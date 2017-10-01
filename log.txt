@@ -1,0 +1,3 @@
+
+ 1506889500610: User requested: 'my-tweets           ' with a query of '@oleh_kmyta_2005',
+ 1506889502953: User requested: 'Run again the option ?' with a query of 'Yes',
